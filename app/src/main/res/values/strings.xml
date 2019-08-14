@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Garima</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="change_photo">Change Photo</string>
+    <string name="personal_details">Personal Details</string>
+    <string name="mobile_no">Mobile no</string>
+</resources>
